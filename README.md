@@ -10,10 +10,6 @@ This repository contains the code for an **Automated Image Caption Generation Sy
 - [Dataset](#dataset)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Sample Results](#sample-results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -55,7 +51,7 @@ We use the **Flickr30k** dataset, a comprehensive image dataset containing thous
 
 ## Installation
 
-1. **Clone the Repository**
+ **Clone the Repository**
    ```bash
    git clone https://github.com/Ayush-chanchal/Automated-Image-Caption-Generation-System-for-low-resource-Arabic-language.git
    cd arabic-image-captioning
